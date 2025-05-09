@@ -5,7 +5,6 @@
 Ruckus Networks is a WiFi equipment vendor that provides enterprise-grade wireless networking solutions, including:
 - Access Points (APs) for indoor/outdoor WiFi coverage
 - Controllers for centralized management of APs
-Ruckus is commonly used in universities, hospitals, and anywhere high density WiFi is required.
 
 ## What is a WiFi Controller?
 
