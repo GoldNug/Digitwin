@@ -62,5 +62,5 @@ get ap-list
 get wlan-radio AP-01
 get traffic-ap AP-01
 ```
-An indicator of a successfully simulated CLI would show [here]
+An indicator of a successfully simulated CLI would show [here](https://github.com/GoldNug/Digitwin/blob/main/Results_Simulation/CLI_simulated.png)
 In a real environment, the functions would not need to be user-defined, as the vendor (ruckus) would already provide the information and commands
